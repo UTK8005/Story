@@ -1,1 +1,1 @@
-This is the second text file.
+This is the second text file. And it has been modified a little in the second branch.
